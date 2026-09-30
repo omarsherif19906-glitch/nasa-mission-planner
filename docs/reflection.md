@@ -1,0 +1,8 @@
+# Project Reflection 
+This was my first time using github, and I honestly really enjpyed it, I learned how to use Github to organize and manage my little  software project. I learned how I can create a repository, write a read me file, create and manage issues, and use labels to organize tasks. Even though I did the assignment alone so there was no need to add or share with a partner and stuff, I still learned how branches allow different features to be developed seperately and how pull requests can be used to merge changes into the main branch of the project. At first I didnt understand the reason of why commit messages where a thing, but then as I was making them I figured it sorta serves like a project history or similar to how a history tab of a word doc works, so everyone can see what was changed, etc. 
+
+# What was challenging and fun
+The most challenging part initially was understanding Github's UI and what each of the functions and options did, but our Dr luckily gave us a quick intro lecture before we start and showed us each function and the main foundational things we will need to get started in Github, so using that and searching up what i dont understand allowed me to create the two feature branches and to merge them through pull requests and that was ironically the most fun part! (for me) 
+
+# What I would improve if I had more time
+If I had more time, I would improve the application by adding more NASA missions and making the filtering system a bit more interactive. I would also improve the functionality of the app to make the app more user friendly and finally also maybe upgrade the visual design. 
