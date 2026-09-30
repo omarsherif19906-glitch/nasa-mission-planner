@@ -19,5 +19,13 @@ const missions = [
     }
 ];
 
-console.log("NASA Mission Planner");
-console.log(missions);
+function filterMissions(status) {
+    if (status === "All") {
+        return missions;
+    }
+
+    return missions.filter(mission => mission.status === status);
+}
+
+console.log("All missions:", filterMissions("All"));
+console.log("Planned missions:", filterMissions("Planned"));
